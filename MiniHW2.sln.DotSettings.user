@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ANullReferenceException_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fe300fc3bcf2547fd9aa67e2916204333a25118_003Fee_003Fe53fb24f_003FNullReferenceException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=132ee252_002D8d5f_002D4509_002Daacc_002D898f2bf125cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Move_ShouldChangeEnclosureId_AndReturnEvent" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.AnimalTests.Move_ShouldChangeEnclosureId_AndReturnEvent&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1ad49bd_002D567b_002D4dd8_002D8df1_002D1d66563d4ab5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Move_ShouldChangeEnclosureId_AndReturnEvent #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.DomainTests.EnclosureTests.AddAnimal_ShouldThrow_WhenAtMaxCapacity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.DomainTests.EnclosureTests.Clean_ShouldLogMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.ServiceTests.AnimalTransferServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.ServiceTests.ZooStatisticsServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.InfrastructureTests.InMemoryZooRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38D63E0F-3EAF-4AE9-9CE9-696B9E9DC2C8::net7.0::Tests.PresentationTests.AnimalsControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
