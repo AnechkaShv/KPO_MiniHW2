@@ -68,4 +68,6 @@ Swagger
 http://localhost:5254/swagger/index.html
 
 Запуск тестов
+```bash
 dotnet test --collect:"XPlat Code Coverage"
+```
