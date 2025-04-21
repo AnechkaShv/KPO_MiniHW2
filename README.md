@@ -49,3 +49,23 @@
 | DIP                | Абстракции vs детали                | `IZooRepository` в Domain, реализация в Infrastructure |
 
 
+## 3. Запуск программы
+Склонировать репозиторий
+ ```bash
+   git clone https://github.com/AnechkaShv/KPO_MiniHW2
+```
+
+Перейти в папку Presentation
+```bash
+   cd Presentation
+```
+
+Запустить API
+```bash
+   dotnet run
+```
+Swagger
+http://localhost:5254/swagger/index.html
+
+Запуск тестов
+dotnet test --collect:"XPlat Code Coverage"
